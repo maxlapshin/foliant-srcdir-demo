@@ -1,4 +1,5 @@
 title: example
+src_dir: src/en
 
 chapters:
-  - en/index.md
+  - index.md
