@@ -3,6 +3,5 @@
 Your content goes here.
 
 
-![picture](../img/alpine.jpg)
-
+![picture](<m>img_dir</m>/alpine.jpg)
 

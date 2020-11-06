@@ -3,3 +3,11 @@ src_dir: src/en
 
 chapters:
   - index.md
+
+preprocessors:
+    -   macros:
+            macros:
+                img_dir: /usr/src/app/src/img
+
+
+
