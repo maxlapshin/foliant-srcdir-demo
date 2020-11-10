@@ -2,3 +2,4 @@
 foliantcontrib.mkdocs
 foliantcontrib.macros
 foliantcontrib.meta
+mkdocs-material

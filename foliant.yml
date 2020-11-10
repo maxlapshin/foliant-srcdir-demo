@@ -9,5 +9,10 @@ preprocessors:
             macros:
                 img_dir: /usr/src/app/src/img
 
-
-
+backend_config:
+  mkdocs:
+    mkdocs.yml:
+      theme:
+        name: material
+      markdown_extensions:
+        - meta
