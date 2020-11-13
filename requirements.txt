@@ -2,4 +2,8 @@
 foliantcontrib.mkdocs
 foliantcontrib.macros
 foliantcontrib.meta
+foliantcontrib.superlinks
+foliantcontrib.admonitions
+foliantcontrib.customids
+foliantcontrib.csvtables
 mkdocs-material
