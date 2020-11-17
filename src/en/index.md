@@ -1,9 +1,14 @@
 ---
-title: Description of the product
-keywords: Description, example, foliant
-description: Start reading from this page
+title: Title defined in yaml
+keywords: Yaml style keywords
+description: Description in yaml head
 id: initial
 ---
+
+{% block extrahead %}
+<meta property="keywords" content="Description, example, foliant" />
+<meta property="og:locale" content="en" />
+{% endblock %}
 
 # Welcome to example
 

@@ -1,4 +1,4 @@
-FROM foliant/foliant:pandoc
+FROM foliant/foliant:full
 
 # If you plan to bake PDFs, uncomment this line and comment the line above:
 # FROM foliant/foliant:pandoc
